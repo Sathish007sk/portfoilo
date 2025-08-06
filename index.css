@@ -222,13 +222,13 @@
   /* width: 100%;
   height: auto; */
 
-  height: 280px;  
-  width: 210px;
+  height: 300px;  
+  width: 240px;
 }
 
 .circle {
-  width: 300px;
-  height: 300px;
+  width: 320px;
+  height: 320px;
 }
 }
 
@@ -650,7 +650,7 @@ strong{
     
   }
   .work-item img {
-  width: 80%;
+  width: 100%;
   height: 250px;
   display: block;
 }
